@@ -1,0 +1,40 @@
+.burq-link {
+    background: #0059d6;
+    color: white;
+    text-decoration: none;
+    padding: 1%;
+    border-radius: 1%;
+
+}
+.container {
+    margin: 5% 10%;
+}
+
+#apikey-form
+{
+	margin-top: 5%;
+}
+.error {
+    text-align: center;
+    color: red;
+}
+.success {
+    text-align: cdfgenter;
+    color: green;
+}
+.burq-link:hover {
+    color: white;
+    text-decoration: none;
+}
+.btn.btn-default.active.toggle-off {
+    border: 1px solid black !important;
+}
+
+
+.odd,.even
+{
+    text-align:center;
+}
+.even {
+    background: #8080800f !important;
+}
